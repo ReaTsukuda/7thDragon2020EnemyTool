@@ -8,3 +8,7 @@ None right now. You should be able to immediately open the solution in Visual St
 This respository comes with `unpack.rb`, a simple Ruby script for manually unpacking TPK archives. The syntax for running it is:
 
 `ruby unpack.rb <TPK_FILENAME>`, where <TPK_FILENAME> is the name of the pack you want to unpack—for example, `init.tpk`.
+
+# Acknowledgements
+
+Thanks to [Pokeytax](https://cavespeak.org/) for telling me how the dictionary text encoding in the fan translation script editors works. And also for making the 2020 fan translations, I guess.
